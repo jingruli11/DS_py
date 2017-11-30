@@ -18,3 +18,6 @@ print(mylist.search(123))
 print(mylist.search(19))
 
 print(mylist.size())
+
+mylist.remove(2)
+print(mylist.size())
