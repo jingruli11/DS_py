@@ -18,13 +18,28 @@ def shellSort(ll):
 standup
 
 did:
-- 5 differnet types of charts, successfully developed 4 new looks, one for each type
-- specified looks to be done in this sprint for shilpa
+- story cards 256, 262 are dev done, waiting for John's review
+- region map can only be seen using temp2 LookML under the branch anh developed for me
 
 do:
-- propose a meeting with jay and anh to talk about dimension and measure needed (percentage, region)
-- ask anh to share his region map chart
+- story card 271, remaining 4 looks
 
 block:
-- region dimension string --> location type (necessary for this sprint)
-- percentage measure (not necessary for this sprint)
+- no
+
+
+1. filled circles for line charts
+2. no labels for the points
+3. 25 padding for all charts
+4. change y axis name
+5. add trend line to line charts
+6. 10% increments for every chart that goes between 0 to 100
+7. labels for test ordered.
+
+
+
+
+
+1. talk to anh about filter labels
+2. consistent color scheme
+3. 
